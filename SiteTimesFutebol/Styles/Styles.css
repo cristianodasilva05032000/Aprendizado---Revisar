@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(241, 1, 1);
+    text-decoration: solid;
+}
+
+h4 {
+    text-align: center;
+    text-shadow: 10px 10px 10px rgb(241, 1, 1);
+    text-decoration: solid;
+}
+
+.title {
+    color: aqua;
+    text-align: left;
+    text-shadow: 10px 10px 10px rgb(241, 1, 1);
+    text-decoration: solid;
+}
+
+#texto {
+    text-align: center;
+}
