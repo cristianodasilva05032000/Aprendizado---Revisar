@@ -1,13 +1,5 @@
 algoritmo "AnalisadorValores"
-// =============================================================
-// Algoritmo para ler cinco numeros e mostrar no final:
-// - A soma e a media de todos os valores
-// - Quantos valores sao divisiveis por 5 e quantos sao nulos
-// - A soma de todos os valores pares digitados
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   V, C, S, DI5, NUL, SPAR: Inteiro
   M: Real

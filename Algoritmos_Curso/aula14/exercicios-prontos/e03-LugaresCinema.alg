@@ -1,10 +1,5 @@
 algoritmo "LugaresCinema"
-// =============================================================
-// Algoritmo para reservar lugares em uma sala de cinema.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
    B: vetor[1..19] de Caractere
    l, cad: Inteiro

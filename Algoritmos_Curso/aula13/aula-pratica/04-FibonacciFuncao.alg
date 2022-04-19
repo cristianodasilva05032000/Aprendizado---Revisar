@@ -1,11 +1,5 @@
 algoritmo "FibonacciFuncao"
-// =============================================================
-// Algoritmo para criar uma serie de Fibonacci utilizando uma
-// funcao com passagem de parametros por referencia.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   I, T1, T2, T3: Inteiro
 Funcao ProximoFibonacci(var N1, N2: Inteiro): Inteiro

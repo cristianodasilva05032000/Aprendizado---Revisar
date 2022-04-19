@@ -1,11 +1,5 @@
 algoritmo "matrizIdentidade"
-// =============================================================
-// Algoritmo para gerar automaticamente uma matriz identidade
-// de terceira ordem.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   mID: vetor[1..3, 1..3] de Inteiro
   i, j: Inteiro

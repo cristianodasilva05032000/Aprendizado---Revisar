@@ -1,12 +1,5 @@
 algoritmo "FibonacciProcedimento"
-// =============================================================
-// Algoritmo para exibir os 10 primeiros elementos de uma serie de
-// Fibonacci usando procedimentos com passagem de parametros por
-// referencia.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   I, T1, T2, T3: Inteiro
 Procedimento ProximoFibonacci(var N1, N2: Inteiro)

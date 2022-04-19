@@ -1,11 +1,5 @@
 algoritmo "ParImpar"
-// =============================================================
-// Algoritmo para criar uma funcao que verifica se um determinado
-// numero passado como parametro e PAR ou IMPAR.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   N: Inteiro
   R: Caractere

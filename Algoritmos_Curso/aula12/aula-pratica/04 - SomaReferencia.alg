@@ -1,11 +1,5 @@
 algoritmo "SomaParametrosReferencia"
-// =============================================================
-// Algoritmo para somar dois valores usando procedimentos com
-// passagem de parametros por referencia.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   X, Y: Inteiro
 Procedimento Soma (var A, B: Inteiro)

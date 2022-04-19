@@ -1,10 +1,5 @@
 algoritmo "FazSomaProcedimento"
-// =============================================================
-// Algoritmo para somar dois valores usando procedimentos.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
  X, Y: Inteiro
 Procedimento Soma(A, B: Inteiro)

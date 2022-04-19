@@ -1,11 +1,5 @@
 algoritmo "DetectorPesado"
-// =============================================================
-// Algoritmo para detectar qual e a pessoa mais pesada, utilizando
-// rotinas em algoritmos.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   I: Inteiro
   N, Pesado: Caractere

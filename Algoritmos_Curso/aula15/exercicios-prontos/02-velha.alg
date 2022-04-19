@@ -1,10 +1,5 @@
 algoritmo "jogoVelha"
-// =============================================================
-// Algoritmo para criar um jogo da velha.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   v: vetor[1..3, 1..3] de Caractere
   L, C, Cont, Po: Inteiro

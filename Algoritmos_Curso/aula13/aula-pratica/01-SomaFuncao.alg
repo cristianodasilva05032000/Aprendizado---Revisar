@@ -1,11 +1,5 @@
 algoritmo "SomaFuncao"
-// =============================================================
-// Algoritmo para somar dois valores usando funcao com passagem
-// de parametros por valor.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   V1, V2, S: Inteiro
 

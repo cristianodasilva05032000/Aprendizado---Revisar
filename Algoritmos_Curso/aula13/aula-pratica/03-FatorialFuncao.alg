@@ -1,10 +1,5 @@
 algoritmo "FatorialFuncao"
-// =============================================================
-// Algoritmo com funcao para calcular o fatorial de um numero.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   N, F: Inteiro
 

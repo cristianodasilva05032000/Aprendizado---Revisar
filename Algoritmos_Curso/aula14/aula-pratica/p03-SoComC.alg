@@ -1,10 +1,5 @@
 algoritmo "SoComC"
-// =============================================================
-// Algoritmo para mostrar uma listagem com nomes que comecem com C
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   nome: Caractere
   soC: vetor[1..10] de Caractere

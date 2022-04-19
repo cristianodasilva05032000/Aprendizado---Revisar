@@ -1,10 +1,5 @@
 algoritmo "CorrigeProvas"
-// =============================================================
-// Algoritmo para corrigir uma prova, a partir de um gabarito.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
    gab: vetor[1..5] de Caractere
    prova: vetor[1..5] de Caractere

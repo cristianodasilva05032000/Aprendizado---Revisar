@@ -1,10 +1,5 @@
 algoritmo "valoresPares"
-// =============================================================
-// Algoritmo para mostrar uma contagem regressiva de valores pares
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   CONT, V: Inteiro
 inicio

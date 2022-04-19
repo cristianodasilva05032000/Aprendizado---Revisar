@@ -1,11 +1,5 @@
 algoritmo "matrizPar"
-// =============================================================
-// Algoritmo para preencher uma matriz de terceira ordem e mostrar
-// quais sao as posicoes que possuem valores pares.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   valores: vetor[1..3, 1..3] de Inteiro
   l, c, totPar: Inteiro

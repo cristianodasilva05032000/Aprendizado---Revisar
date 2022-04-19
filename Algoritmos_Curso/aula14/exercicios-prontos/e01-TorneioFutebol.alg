@@ -1,10 +1,5 @@
 algoritmo "TorneioFutebol"
-// =============================================================
-// Algoritmo para verificar o resultado de uma partida de futebol
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   time: vetor[1..3] de Caractere
   l, c: Inteiro

@@ -1,14 +1,5 @@
 algoritmo "dissecandoMatrizes"
-// =============================================================
-// Algoritmo para preencher uma matriz de quarta ordem e mostrar:
-// - Os elementos da diagonal principal
-// - Os elementos do triangulo superior
-// - Os elementos do triangulo inferior
-// - A matriz completa
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   m: vetor[1..4, 1..4] de Inteiro
   l, c, op: Inteiro

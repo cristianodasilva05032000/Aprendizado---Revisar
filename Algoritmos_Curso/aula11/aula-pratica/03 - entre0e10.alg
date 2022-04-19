@@ -1,12 +1,5 @@
 algoritmo "QuantosEntre0e10"
-// =============================================================
-// Algoritmo para verificar quantos valores digitados estao no
-// intervalo entre 0 e 10, incluindo a soma dos valores impares
-// que estiverem dentro desse intervalo.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   C, V, Tot010, SImp: Inteiro
 inicio

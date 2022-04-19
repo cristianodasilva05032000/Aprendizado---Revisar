@@ -1,10 +1,5 @@
 algoritmo "TotalPares"
-// =============================================================
-// Algoritmo para preencher um vetor e mostrar os que sao pares.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   n: vetor[1..7] de Inteiro
   i, TotPar: Inteiro

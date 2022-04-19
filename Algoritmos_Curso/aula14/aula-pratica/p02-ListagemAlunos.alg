@@ -1,10 +1,5 @@
 algoritmo "ListagemAlunos"
-// =============================================================
-// Algoritmo para mostrar uma listagem de alunos.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   nome: vetor[1..5] de Caractere
   nota1: vetor[1..5] de Real

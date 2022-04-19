@@ -1,11 +1,5 @@
 algoritmo "AnalisadorStrings"
-// =============================================================
-// Algoritmo para demonstrar as principais funcoes de manipulacao
-// de strings do visualg.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   N: Caractere
   C: Inteiro

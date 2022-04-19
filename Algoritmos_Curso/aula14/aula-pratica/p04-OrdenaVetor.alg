@@ -1,10 +1,5 @@
 algoritmo "OrdenaVetor"
-// =============================================================
-// Algoritmo para ordenar um vetor.
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   v: vetor[1..10] de Inteiro
   c: Inteiro

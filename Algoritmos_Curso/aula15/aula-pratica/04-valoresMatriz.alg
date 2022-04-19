@@ -1,13 +1,5 @@
 algoritmo "valoresMatriz"
-// =============================================================
-// Algoritmo para ler uma matriz de quarta ordem e mostrar no final:
-// - A soma dos valores da diagonal principal
-// - O produto dos valores da segunda linha
-// - O maior valor da terceira coluna
-//
-// AUTOR: Gustavo Guanabara
-// Curso COMPLETO disponivel GRATIS no site www.cursoemvideo.com
-// =============================================================
+
 var
   m: vetor[1..4, 1..4] de Inteiro
   l, c, sDP, p2L, mai3C: Inteiro
